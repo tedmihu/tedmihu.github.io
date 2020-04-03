@@ -5,3 +5,8 @@ body {
     height: 100vh;
     font: bold 6em Arial;
 }
+
+p {
+    border: 5px solid black;
+    padding: 50px;
+}
